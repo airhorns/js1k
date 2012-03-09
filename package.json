@@ -1,0 +1,19 @@
+{
+  "author": "Harry Brundage <harry.brundage@jadedpixel.com>",
+  "name": "hornairs-js1k",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hornairs/js1k.git"
+  },
+  "engines": {
+    "node": "~0.6.9"
+  },
+  "dependencies": {
+    "uglify-js": "1.2.5",
+    "coffee-script": "1.2.0",
+    "muffin": "0.2.7"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
